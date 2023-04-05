@@ -1,16 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Arma Reforger
+  role: Junior Programmer
+  duration: 2023 &mdash; Present
+  url: "https://reforger.armaplatform.com/"
+  description: Arma Reforger is the newest game in the Arma franchise. The game is powered by Bohemia's Enfusion Engine and takes place during the Cold War on an island called Everon.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Lurk
+  role: Programmer
+  duration: Nov, 2019
+  url: "https://lurk.bramreuling.com/"
+  description: LURK is a project that I worked on in my first year of CMGT. We were tasked to built a point and click game in 2 weeks in Processing. The group that I worked in consisted of 2 artists, 2 designers and 1 engineer (me). I was tasked with building the website and the framework of the game.

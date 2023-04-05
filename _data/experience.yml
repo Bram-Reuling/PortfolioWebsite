@@ -1,19 +1,15 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Bohemia Interactive
+  position: Junior Programmer
+  duration: Feb, 2023 &mdash; Present
+  summary: Working on Arma Reforger for my graduation assignment.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Saxion University of Applied Sciences
+  position: Student Assistent
+  duration:  Feb, 2022 &mdash; Feb, 2023
+  summary: During this period, I worked on a medical trainer for the Leidens Universitair Medisch Centrum. I was responsible for adapting the already existing Epic Online Services plugin in Unreal Engine to support a way to login without an account, I added a custom gamemode that spawns a trainer or trainee pawn based on whether a VR headset is attached or not and added player names to the product. Core skills used during this period are Unreal Engine, C++ and network programming.
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Thales Nederland B.V.
+  position: Game Developer Intern
+  duration:   Feb, 2022  &mdash; Jul, 2022
+  summary: During this internship, I worked on a game that will display the technology that Thales Nederland B.V. is developing on trade shows to spark the interest of new employees. I worked on implementing some gameplay systems such as a team system, ESM system (receiver of signals) and an IFF system (identification system for friendly or enemy entities). Core skills used during this internship are Unity 3D, C# and network programming.

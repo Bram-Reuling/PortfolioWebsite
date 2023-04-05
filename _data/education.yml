@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Science, Creative Media & Game Technologies
+  uni: Saxion University of Applied Sciences
+  year: 2019 &mdash; 2023
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Propaedeutic Certificate
+  summary: Studied the software engineering track, specializing in network programming for games.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Hoger Algemeen Voortgezet Onderwijs (HAVO)
+  uni: Staring College
+  year: 2019
+  summary: Studied math, physics, biology, chemistry and company economics

@@ -39,7 +39,7 @@ resume_section_projects:        true
 resume_section_skills:          true
 # resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+# resume_section_associations:    true
 resume_section_interests:       true
 
 # Resume social links
@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/bram-reuling/"
   resume_instagram_url:         "https://www.instagram.com/bramreuling/"
-  resume_website_url:           "https://bramreuling.com"
+  # resume_website_url:           "https://bramreuling.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 

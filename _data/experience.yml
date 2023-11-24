@@ -1,10 +1,15 @@
 # Jobs
 - company: Bohemia Interactive
   position: Junior Programmer
-  duration: Feb, 2023 &mdash; Present
+  duration: Jul, 2023 &mdash; Present
+  summary: Implementation for a specific gameplay feature (NDA) in C++ and scripts. Documenting and maintaining several networked features.
+  
+- company: Bohemia Interactive
+  position: Graduate Junior Programmer
+  duration: Feb, 2023 &mdash; Jul, 2023
   summary: Working on implementing a specific gameplay feature into Arma Reforger for my graduation thesis.
 
-- company: Saxion University of Applied Sciences
+- company: XR Lab (Saxion University of Applied Sciences)
   position: Student Assistent
   duration:  Feb, 2022 &mdash; Feb, 2023
   summary: During this period, I worked on a medical trainer for the Leidens Universitair Medisch Centrum. I was responsible for adapting the already existing Epic Online Services plugin in Unreal Engine to support a way to login without an account, I added a custom gamemode that spawns a trainer or trainee pawn based on whether a VR headset is attached or not and added player names to the product. Core skills used during this period are Unreal Engine, C++ and network programming.
